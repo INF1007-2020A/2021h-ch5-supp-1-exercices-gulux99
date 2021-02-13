@@ -25,7 +25,7 @@ def get_bill(name, data):
     facture1 = f"SOUS TOTAL   {sous_total} $"
     facture2 = f"TAXES             {taxes} $"
     facture3 = f'TOTAL             {total} $'
-    facture_final = nom_facture + '\n'
+    facture_final = nom_facture + '\n' + facture1 + facture2 + facture3
 	return ""
 
 
