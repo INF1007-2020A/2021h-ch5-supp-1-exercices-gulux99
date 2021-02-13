@@ -17,7 +17,7 @@ def get_bill(name, data):
     
     #calcul taxes
     taxes = 0
-    taxes = 
+    taxes = sous_total * tax
 
 
 
