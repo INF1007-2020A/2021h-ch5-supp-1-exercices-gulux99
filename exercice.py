@@ -29,14 +29,6 @@ def get_bill(name, data):
 	return facture_final
 
 
-
-
-
-
-
-
-
-
 def format_number(number, num_decimal_digits):
 	return ""
 
