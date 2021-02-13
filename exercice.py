@@ -21,6 +21,7 @@ def get_bill(name, data):
     total = 0
     total = sous_total + taxes
 
+    
 
 	return ""
 
