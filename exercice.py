@@ -12,6 +12,7 @@ def get_bill(name, data):
     sous_total = 0
     for item in data:
         sous_total = item[INDEX_QUANTITY] * item[INDEX_PRICE]
+    
 	return ""
 
 
