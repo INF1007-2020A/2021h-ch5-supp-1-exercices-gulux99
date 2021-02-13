@@ -9,7 +9,7 @@ def get_bill(name, data):
 	INDEX_PRICE = 2
 
     tax = 0.15
-    sous_total = 
+    for 
 	return ""
 
 
