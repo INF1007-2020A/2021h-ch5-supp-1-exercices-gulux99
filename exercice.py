@@ -21,7 +21,7 @@ def get_bill(name, data):
     total = 0
     total = sous_total + taxes
 
-    facture1 = name + "\n" + f"'Sous"
+    facture1 = name + "\n" + f"'SOUS TOTAL'"
 
 	return ""
 
