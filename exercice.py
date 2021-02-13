@@ -23,7 +23,7 @@ def get_bill(name, data):
 
     nom_facture = name
     facture1 = f"'SOUS TOTAL'   {sous_total}"
-    facture2 = f"'TAXES'"
+    facture2 = f"'TAXES'  "
 
 	return ""
 
