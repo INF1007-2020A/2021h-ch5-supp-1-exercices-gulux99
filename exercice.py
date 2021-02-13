@@ -16,11 +16,11 @@ def get_bill(name, data):
         sous_total = item[INDEX_QUANTITY] * item[INDEX_PRICE]
     
     #calcul taxes
-
-
-
-
     
+
+
+
+
 	return ""
 
 
