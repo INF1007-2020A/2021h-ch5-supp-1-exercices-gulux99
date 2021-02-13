@@ -4,7 +4,7 @@
 import random
 
 def get_bill(name, data):
-    achats = 
+    nom =
 	INDEX_NAME = 0
 	INDEX_QUANTITY = 1
 	INDEX_PRICE = 2
