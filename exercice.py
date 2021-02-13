@@ -8,6 +8,7 @@ def get_bill(name, data):
 	INDEX_QUANTITY = 1
 	INDEX_PRICE = 2
 
+    tax = 0.15
     
 	return ""
 
