@@ -4,11 +4,10 @@
 import random
 
 def get_bill(name, data):
-    
 	INDEX_NAME = 0
 	INDEX_QUANTITY = 1
 	INDEX_PRICE = 2
-
+    
 	return ""
 
 
